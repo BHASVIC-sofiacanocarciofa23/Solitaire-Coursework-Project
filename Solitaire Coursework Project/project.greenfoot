@@ -1,9 +1,10 @@
 #Greenfoot project file
-editor.fx.0.height=739
-editor.fx.0.width=816
-editor.fx.0.x=432
-editor.fx.0.y=88
-height=585
+class.Menu.image=Image.jpg
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+height=1070
 package.numDependencies=0
 package.numTargets=1
 project.charset=UTF-8
@@ -28,7 +29,6 @@ target1.width=120
 target1.x=0
 target1.y=0
 version=3.0.0
-width=825
-world.lastInstantiated=Menu
-xPosition=440
-yPosition=55
+width=1700
+xPosition=0
+yPosition=2
